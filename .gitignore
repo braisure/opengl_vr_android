@@ -1124,3 +1124,4 @@ app/build/test-results/testReleaseUnitTest/TEST-com.opengl.vr.ExampleUnitTest.xm
 build/intermediates/lint-cache/api-versions-0-28.0.1.bin
 build/intermediates/lint-cache/sdk-registry.xml/sdk-registry.xml
 build/intermediates/lint-cache/typos-en.txt-2.bin
+app/build/outputs/apk/debug/qingning_world_small-debug.apk
